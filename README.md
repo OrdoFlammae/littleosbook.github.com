@@ -2,11 +2,11 @@
 
 This is the HTML version of "The little book about OS development", which is
 hosted via GitHub pages. For the source code, check out the repository
-<https://github.com/OrdoFlammae/littleosbook>.
+<https://github.com/OrdoFlammae/littleosbook-src>.
 
 # Contributing
 For adding new content, updates, fixes or issues, please use the repository for
-the source code, <https://github.com/OrdoFlammae/littleosbook>.
+the source code, <https://github.com/OrdoFlammae/littleosbook-src>.
 
 # License
 All content is licensed under the Creative Commons Attribute, NonCommercial,
